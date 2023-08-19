@@ -2,11 +2,11 @@ import os
 
 class Config:
 
-    BOT_TOKEN = os.environ["BOT_TOKEN"]                                 # Get From https://t.me/BotFather
+    BOT_TOKEN = os.environ["5685905647:AAH1D3MtLQWWfowH7A-faWLRlHYmlwvd44U"]                                 # Get From https://t.me/BotFather
 
-    API_ID = int(os.environ["API_ID"])                                  # Get from https://my.telegram.org/apps
+    API_ID = int(os.environ["1747534"])                                  # Get from https://my.telegram.org/apps
 
-    API_HASH = os.environ["API_HASH"]                                   # Get from https://my.telegram.org/apps
+    API_HASH = os.environ["5a2684512006853f2e48aca9652d83ea"]                                   # Get from https://my.telegram.org/apps
 
     CLIENT_ID = os.environ["CLIENT_ID"]                                 # Get from https://console.developers.google.com/apis/credentials
 
