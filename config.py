@@ -8,7 +8,7 @@ class Config:
 
     API_HASH = os.environ["5a2684512006853f2e48aca9652d83ea"]                                   # Get from https://my.telegram.org/apps
 
-    CLIENT_ID = os.environ["CLIENT_ID"]                                 # Get from https://console.developers.google.com/apis/credentials
+    CLIENT_ID = os.environ["103981502860-61lsa45lcjdtnijqk6siqrm17hi17sfa.apps.googleusercontent.com"]                                 # Get from https://console.developers.google.com/apis/credentials
 
     CLIENT_SECRET = os.environ["CLIENT_SECRET"]                         # Get from https://console.developers.google.com/apis/credentials
 
